@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'GothamSSm-Medium_Web';
+  src: local(GothamSSm), url('./fonts/GothamSSm-Medium_Web.woff2') format('woff2');
+  font-weight: normal;
+}
+
+*{
+  margin:0;
+}
+body {
+  margin: 0;
+  font-family:'GothamSSm', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
