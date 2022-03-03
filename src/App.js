@@ -18,7 +18,7 @@ function App() {
     <div className="App">
     <Header />
     <div className="app_itemsContainer">
-    <Item
+      <Item
       title='The New CyberTruck'
       desc='It will be out (someday)'
       descLink=''
