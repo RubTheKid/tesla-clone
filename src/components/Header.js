@@ -10,13 +10,13 @@ const Header = () => {
             </div>
 
             <div className="header__center">
-                <p>&nbsp; CyberTruck &nbsp;</p>
-                <p>&nbsp; Model S &nbsp;</p>
-                <p>&nbsp; Model 3 &nbsp;</p>
-                <p>&nbsp; Model X &nbsp;</p>
-                <p>&nbsp; Model Y &nbsp;</p>
-                <p>&nbsp; Solar Roof &nbsp;</p>
-                <p>&nbsp; Solar Panel &nbsp;</p>
+                <button class='cars' a href="#"> CyberTruck </button>
+                <button class='cars' a href="#"> Model S </button>
+                <button class='cars' a href="#"> Model 3 </button>
+                <button class='cars' a href="#"> Model X </button>
+                <button class='cars' a href="#"> Model Y </button>
+                <button class='cars' a href="#"> Solar Roof </button>
+                <button class='cars' a href="#"> Solar Panel </button>
             </div>
 
             <div className="header__right">
